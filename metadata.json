@@ -1,0 +1,7 @@
+{
+  "name": "FormFit AI",
+  "description": "Real-time AI workout form correction assistant using Gemini Live API. Select a workout, align with the ghost overlay, and get instant feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
